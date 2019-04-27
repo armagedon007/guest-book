@@ -1,0 +1,39 @@
+.btn-admin{
+    position: absolute;
+    right: 15px;
+}
+.main-block{
+    padding-top: 15px;
+}
+.form-filter, .form-login{
+    padding: 15px 0;
+}
+.post-photo{
+    text-align: center;
+}
+.post-photo img{
+    max-width: 250px;
+    max-height: 250px;
+}
+.icon-container {
+    display: block;
+    position: relative;
+    width: 20px;
+    min-height: 20px;
+}
+.icon {
+    fill: antiquewhite;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
