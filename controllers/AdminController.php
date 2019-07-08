@@ -11,7 +11,7 @@ class AdminController extends \app\core\Controller {
 	public $layout = 'admin';
 	// экшен
 	function actionIndex() {
-
+//
 		if(User::isGuest()){
 			
 			$error = isset($_SESSION['login_error']) ? $_SESSION['login_error'] : '' ;
