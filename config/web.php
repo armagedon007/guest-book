@@ -7,6 +7,6 @@ return [
         'class' => 'app\db\Connection',
         'dsn' => 'mysql:host=localhost;port=3306;dbname=guestbook',
         'username' => 'root',
-        'password' => '1234567',
+        'password' => '123456',
     ]
 ];
